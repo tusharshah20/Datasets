@@ -1,4 +1,3 @@
-v_mrf,4.47
 10,SMPC522A1DC0040_SE-PGA454_20171012_082108.dat
 category,startRow,nRows,type
 environmentMetaData,13,2,emd
